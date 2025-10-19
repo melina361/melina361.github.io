@@ -1,3 +1,23 @@
 .hero-section {
 	height: 20vh;
-	background-image: url(https://as2.ftcdn.net/v2/jpg/06/76/97/11/1000_F_676971165_pI2RVJMgb6f8kuMF58BeehIYxlkFEmWP.jpg);}
+	background-image: url('https://as2.ftcdn.net/v2/jpg/06/76/97/11/1000_F_676971165_pI2RVJMgb6f8kuMF58BeehIYxlkFEmWP.jpg');
+}
+
+body{
+  font-family: "Leckerli One", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.best-place {
+	height:40 vh;
+	background-image: url('https://i.pinimg.com/736x/bd/c4/30/bdc430604c4bad00f70898e1a60c4ccf.jpg');
+}
+.love-space {
+	height: 40 vh;
+	background-image: url(https://img.freepik.com/free-photo/beautiful-sky-landscape-digital-art-style_23-2151120860.jpg?semt=ais_hybrid);
+}
+img {
+	border: 5px solid indianred;
+}
